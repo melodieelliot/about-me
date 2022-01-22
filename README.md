@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeynep-yildirim
 - 👀 I’m interested in studying abroad
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning HTML, CSS Javascript and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
