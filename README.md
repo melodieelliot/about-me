@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zeynep-yildirim
-- 👀 I’m interested in studying abroad
+- 👋 Hi, I’m @melodieelliot
+- 👀 I’m interested in moving abroad
 - 🌱 I’m currently learning HTML, CSS Javascript and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
